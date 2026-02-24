@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "HERA – Health Economics & Regulatory Affairs Partner"
+
+  navbar:
+    logo: images/hera_logo.png
+    background: "#FFFFFF"
+    foreground: "#000000"
+    search: true
+    left:
+      - href: app.qmd
+        text: HERA Application
+      - text: Resources
+        menu:
+          - href: health-economics.qmd
+            text: Health Economics
+          - href: methods.qmd
+            text: Methods & Validation
+      - text: Company
+        menu:
+          - href: about.qmd
+            text: About
+          - href: contact.qmd
+            text: Contact
+
+  page-footer:
+    background: "#f0f0f0"
+    foreground: "#000000"
+    border: false
+    left: "![](images/hera_logo.png){width='100'}"
+    right: "© 2026 HERA – Health Economics & Regulatory Affairs Partner"
+
+format:
+  html:
+    theme: default
+    css: [styles.css, custom.css]
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    highlight-style: github

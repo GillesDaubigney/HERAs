@@ -1,0 +1,60 @@
+---
+title: "contact and useful links"
+editor: visual
+---
+
+## Useful links
+
+[EMA - HTA](https://www.ema.europa.eu/en/news/new-eu-rules-health-technology-assessments-become-effective)
+
+[NICE standards and guidelines](https://www.nice.org.uk/what-nice-does/life-sciences-how-to-get-your-product-to-market/nice-advice-service?utm_source=bing&utm_medium=cpc&utm_campaign=GS_NICE_Advice_Informational_Search_Bing&msclkid=5b9cf2454dc81b88ccb19bd16c97cd75&utm_term=Health%20technology%20evaluation&utm_content=Informational_Health%20Technology%20Assessment)
+
+[ICER](https://icer.org/)
+
+[HAS](https://www.has-sante.fr/jcms/c_415958/en/about)
+
+[IQWIG](https://www.iqwig.de/en/)
+
+[Global health-The New England Journal of medicine](https://www.nejm.org/)
+
+[The Lancet Global Health](https://www.thelancet.com/journals/landig/home)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+
+[Embase](https://www.embase.com/landing?status=grey)
+
+## Get in Touch
+
+We welcome collaborations, feedback, and partnerships.
+
+**Email:** gilles.daubigney\@gmail.com
+
+<form name="contact" method="POST" data-netlify="true">
+
+<p><label>Name: <input type="text" name="name" /></label></p>
+
+<p><label>Email: <input type="email" name="email" /></label></p>
+
+<p>
+
+<label>Message:
+
+```{=html}
+<textarea name="message"></textarea>
+```
+
+</label>
+
+</p>
+
+<p>
+
+<button type="submit">
+
+Send
+
+</button>
+
+</p>
+
+</form>

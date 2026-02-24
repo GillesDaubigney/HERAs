@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "d3d9481d"
+  },
+  "app.qmd": {
+    "app.html": "0ddd110e"
+  },
+  "contact.qmd": {
+    "contact.html": "3c15b9e0"
+  },
+  "health-economics.qmd": {
+    "health-economics.html": "e5892b38"
+  },
+  "index.qmd": {
+    "index.html": "76389ec1"
+  },
+  "methods.qmd": {
+    "methods.html": "fe7ee36e"
+  }
+}

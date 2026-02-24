@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+---
+title: "About"
+---
+
+## The HERA Initiative
+
+HERA is your partner that brings transparency and reproducibility to health‑economic modeling. It supports you from initiating investment decision in medical programs to submitting your dossier to health Technology Assessment agencies
+
+HERA was founded by expert in health economics. We accompany the different stakeholders of the health sector in order to better understand, evaluated and optimise health ressources.
+
+Our mission: Contribute to a system of health more effective and fair and durable with a approach founded on the data, research in economics of health.
+
+## About the Author
+
+**Gilles Daubigney**\
+Health economist with over 25 years experience in the healtcare industry and R developer specialising in decision‑analytic modeling.
+
+## Vision
+
+Empower clinicians and healthcare leaders with accessible, evidence‑based tools.
+
+------------------------------------------------------------------------
+
+<section class="section" data-animate>
+
+...
+
+</section>

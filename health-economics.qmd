@@ -1,0 +1,62 @@
+---
+title: "Health Economics Overview"
+---
+
+## Empowering healthcare professionals with cutting-edge economic analysis and insights to transform decision-making and policy development.
+
+HERA generates robust evidence and builds economic models to substantiate value proposition.
+
+HERA mission is to realize optimal pricing and access potential for our clients and creating compelling value for Payers and patients. HERA supports stakeholders in interacting with Payers, Payer Experts, HTA bodies  and other access stakeholders such as the Recommending bodies (NITAGs). HERA  builds and delivers Global Market Access strategy and Payer Value Proposition based on clinical and economic data to facilitate access and reimbursement locally while sustaining innovation.
+
+## Key concepts supported by our experts team
+
+### 1. Optimizing Opportunity Cost
+
+The value of the best alternative use of resources.
+
+### 2. Increased Efficiency
+
+-   **Technical efficiency**: producing care at lowest cost
+
+-   **Allocative efficiency**: allocating resources to maximize population health
+
+### 3. Equity
+
+How healthcare is distributed across individuals or groups.
+
+Efficiency and equity often conflict.
+
+### 4. Utility and QALYs
+
+Models relying on **quality-adjusted life years (QALYs)** combining survival and quality of life.
+
+### 5. Cost-Effectiveness
+
+Comparing incremental cost per incremental health gain (e.g., ICERs).
+
+## What do we cover?
+
+Development of cost-effectiveness models and policy framework.
+
+-   Health technology assessment (HTA)
+
+-   Pricing and reimbursement policy
+
+-   Public health economics
+
+## Forward-Looking Framing
+
+We address:
+
+-   Budget impact and affordability constraints
+
+-   Dynamic pricing and value-based agreements
+
+-   Real-world evidence integration
+
+-   Long-term system sustainability
+
+<section class="section" data-animate>
+  ...
+</section>
+

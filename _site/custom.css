@@ -1,0 +1,138 @@
+/* Change text color for the "What We Do" section */
+#what-we-do {
+    color: white;
+}
+
+/* Change text color for all text in the slide content */
+.reveal .slides section .slide-content {
+    color: white;
+}
+
+/* Change text color for all text in the slide */
+.reveal .slides section {
+    color: white;
+}
+
+/* Change text color for all text in the slide, including lists and paragraphs */
+.reveal text {
+    fill: white;
+}
+
+.reveal p {
+    color: white;
+}
+
+.reveal li {
+    color: white;
+}
+/* Change all text color in slides to white */
+.reveal {
+    color: white;
+}
+
+/* Change text color for all paragraphs */
+.reveal p {
+    color: white;
+}
+
+/* Change text color for all lists */
+.reveal li {
+    color: white;
+}
+
+/* Change text color for all strong elements */
+.reveal strong {
+    color: white;
+}
+
+/* Change text color for all divs */
+.reveal div {
+    color: white;
+}
+
+/* Change text color for all slide content */
+.reveal .slides section {
+    color: white;
+}
+/* Make text white in the "What We Do" section */
+.features {
+    color: white;
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 1em 0;
+}
+
+.features div {
+    margin-bottom: 1em;
+}
+
+/* Make text white in the "section" */
+.section {
+    color: white;
+}
+
+/* Make text white in the "section dark" */
+.section.dark {
+    color: white;
+}
+
+/* Make text white in the "grid" section */
+.section.grid {
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5em;
+}
+
+.section.grid h3 {
+    color: white;
+}
+
+.section.grid p {
+    color: white;
+}
+/* Make text white in the features section */
+.features {
+    color: white;
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 1em 0;
+}
+
+/* Make text white in the dark section */
+.section.dark {
+    color: white;
+}
+
+/* Grid section styling */
+.grid-section {
+    color: white;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.grid-section .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.grid-section h3,
+.grid-section p {
+    color: white;
+}
+
+/* Footer styling */
+footer {
+    color: black !important;
+    background-color: lightblue !important;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+footer p,
+footer div {
+    color: black !important;
+}

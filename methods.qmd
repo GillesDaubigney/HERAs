@@ -1,0 +1,47 @@
+---
+title: "Methods and Validation"
+---
+
+## Model Structure
+
+Our experts can support you running the optimal models based on your situation:
+
+| Situation                         | Best Fit           |
+|-----------------------------------|--------------------|
+| Acute, short-term                 | Decision tree      |
+| Chronic disease, simple structure | Markov cohort      |
+| Survival-driven oncology          | Semi-Markov or PSM |
+| Strong time-in-state effects      | Semi-Markov        |
+| High heterogeneity                | Microsimulation    |
+| Operational/system constraints    | DES                |
+
+## Activity Supported
+
+![](images/catalog.png)
+
+## Our reference
+
+1.  Was the question clearly stated and answerable?
+
+2.  Was a comprehensive overview of the competing alternatives presented ?
+
+3.  Was evidence provided to demonstrate the effectiveness of the program or service?
+
+4.  Were the key costs and consequences of each alternative comprehensively identified
+
+5.  Were the costs and consequences quantified precisely in appropriate physical units prior to their valuation?
+
+6.  Was the valuation of costs and consequences conducted in a credible manner ?
+
+7.  Were adjustments made to the costs and consequences to reflect differences in timing?
+
+8.  Was an incremental analysis performed to evaluate the differential costs and consequences between the alternatives?
+
+9.  Was the uncertainty associated with the estimates of costs and consequences clearly identified and appropriately described?
+
+10. Were all user-relevant concerns adequately addressed in the presentation and discussion of the study’s findings?
+
+------------------------------------------------------------------------
+<section class="section" data-animate>
+  ...
+</section>
