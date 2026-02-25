@@ -11,15 +11,25 @@
 }
 
 /* =====================================
-   GLOBAL LAYOUT – MAKE TEXT WHITE
+   GLOBAL LAYOUT – FULL-PAGE ANIMATED BACKGROUND ★
    ===================================== */
 html, body {
   background-color: var(--hera-bg-light);
-  background-image: url("images/ai-pattern.jpg");
+
+  /* ★ Use your lightened warm-blue image */
+  background-image: url("images/blue-background-light.png");
+
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: fixed;     /* ★ needed for parallax feeling */
   background-position: center;
-  /* text color white by default */
+
+  /* ★ Subtle drifting motion */
+  animation: drift 22s ease-in-out infinite alternate;
+
+  /* ★ Make background 25% lighter */
+  filter: brightness(1.25);
+
+  /* existing settings */
   color: var(--hera-text-light);
   font-family: 'Inter', sans-serif;
   margin: 0;
@@ -27,11 +37,18 @@ html, body {
   scroll-behavior: smooth;
 }
 
+/* ★ Soft drifting animation */
+@keyframes drift {
+  0%   { background-position: center 0px; }
+  50%  { background-position: center -40px; }
+  100% { background-position: center 40px; }
+}
+
 /* =====================================
    NAVBAR – CONTRAST FOR WHITE TEXT
    ===================================== */
 .navbar {
-  background-color: #222 !important;   /* dark bar */
+  background-color: #222 !important;
   border-bottom: 1px solid #333;
 }
 
@@ -46,7 +63,7 @@ html, body {
 
 .navbar-brand img {
   height: 40px;
-  filter: brightness(0) invert(1); /* makes logo visible on dark bg */
+  filter: brightness(0) invert(1);
 }
 
 /* =====================================
@@ -75,7 +92,7 @@ section, .section {
     url("images/ai-banner.jpg");
   background-size: cover;
   background-position: center;
-  color: var(--hera-text-light); /* remains white */
+  color: var(--hera-text-light);
   text-align: center;
   padding: 3em 2em;
   border-radius: 10px;
@@ -103,7 +120,7 @@ section, .section {
   opacity: 1;
   transform: translateY(0);
 }
- 
+
 section p,
 section h1,
 section h2,
