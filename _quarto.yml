@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "images/*.mp4"
 
 website:
   title: "HERA – Health Economics & Regulatory Affairs Partner"

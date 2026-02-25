@@ -8,34 +8,38 @@ format: html
   <h2>Your Partner in Health Economics & Regulatory Affairs</h2>
   <p>Evidence-Based Decision Support for Health and Policy</p>
   <a class="btn btn-primary" href="app.qmd">Launch HERA App</a>
+
+<div class="video-container">
+  <video width="100%" controls>
+    <source src="images/HERA App_ Health Economics Modeling Simplified_720p_caption.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 </section>
 
 <section class="section">
   <h2>What We Do</h2>
-  ::: {.features}
-  💡 **Health-Economic Modeling**
-  Develop easy-to-use models to support policy and clinical decisions.
+:::: {.features}
+💡 **Health-Economic Modeling**
+Develop easy-to-use models to support policy and clinical decisions.
 
-  📊 **Agile and Interactive Exploration**
-  Provide tools for exploring cost-effectiveness and uncertainty.
+𓃠 **Agile and Interactive Exploration**
+Provide tools for exploring cost-effectiveness and uncertainty.
 
-  🧠 **Transparency & Reproducibility**
-  Promote open, reliable, and reproducible modeling practices.
-  
+🧠 **Transparency & Reproducibility**
+Promote open, reliable, and reproducible modeling practices.
+::::
 </section>
 
 <section class="section dark">
-  <h2>Our Mission</h₂>
+  <h2>Our Mission</h2>
   <p>Deliver rigorous, transparent, and accessible health-economic models that empower evidence-based decisions in policy, research, and regulation.</p>
 </section>
 
 <div class="grid-section">
-
-  🎯 Decision Support
+  🎯 **Decision Support**
   Custom cost-effectiveness and HTA modeling tools for timely insights.
- 
-  🌍 Regulatory Affairs
+
+  🌍 **Regulatory Affairs**
   Evidence synthesis and analytic frameworks aligned with global HTA guidelines.
-
 </div>
-
