@@ -4,32 +4,25 @@ format: html
 ---
 
 <section class="hero">
-  <h1>Empowering Health Economics</h1>
-  <h2>Your Partner in Health Economics & Regulatory Affairs</h2>
-  <p>Evidence-Based Decision Support for Health and Policy</p>
+<h1>Empowering Health Economics</h1>
+<h2>Your Partner in Health Economics & Regulatory Affairs</h2>
+<p>Evidence-Based Decision Support for Health and Policy</p>
+<a class="btn btn-primary" href="app.qmd">Launch HERA App</a>
 
-  <div class="overview">
-    <h3 style="color: white; margin: 0;">Overview</h3>
-    <p style="color: white; margin: 0 0 20px 0;">The HERA App helps decision‑makers evaluate interventions using incremental cost‑effectiveness and uncertainty analysis.</p>
-  </div>
+<div class="video-container">
+<video width="100%" controls>
+<source src="images/HERA App_ Health Economics Modeling Simplified_720p_caption.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+::: callout-note
+**Disclaimer:** The HERA App helps decision‑makers evaluate interventions using incremental cost‑effectiveness and uncertainty analysis. HERA App is intended for research and educational use only.
+:::
 
-  <a class="btn btn-primary" href="app.qmd">Launch HERA App</a>
-
-  <div class="video-container">
-    <video width="100%" controls>
-      <source src="images/HERA App_ Health Economics Modeling Simplified_720p_caption.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 </section>
 
 <section class="section">
-  <h2>What We Do</h2>
-  
-::: callout-note
-**Disclaimer:** HERA App is intended for research and educational use only.
-:::
-  
+<h2>What We Do</h2>
 :::: {.features}
 💡 **Health-Economic Modeling**
 Develop easy-to-use models to support policy and clinical decisions.
@@ -43,14 +36,15 @@ Promote open, reliable, and reproducible modeling practices.
 </section>
 
 <section class="section dark">
-  <h2>Our Mission</h2>
-  <p>Deliver rigorous, transparent, and accessible health-economic models that empower evidence-based decisions in policy, research, and regulation.</p>
+<h2>Our Mission</h2>
+<p>Deliver rigorous, transparent, and accessible health-economic models that empower evidence-based decisions in policy, research, and regulation.</p>
 </section>
 
 <div class="grid-section">
-  🎯 **Decision Support**
-  Custom cost-effectiveness and HTA modeling tools for timely insights.
+🎯 **Decision Support**
+Custom cost-effectiveness and HTA modeling tools for timely insights.
 
-  🌍 **Regulatory Affairs**
-  Evidence synthesis and analytic frameworks aligned with global HTA guidelines.
+🌍 **Regulatory Affairs**
+Evidence synthesis and analytic frameworks aligned with global HTA guidelines.
 </div>
+
