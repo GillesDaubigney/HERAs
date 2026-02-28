@@ -7,7 +7,7 @@ format: html
 <h1>Empowering Health Economics</h1>
 <h2>Your Partner in digitalized Health Economics & Regulatory Affairs</h2>
 <p>Evidence-Based Decision Support for Health and Policy</p>
-<a class="btn btn-primary" href="app.qmd">Launch dHERA App</a>
+<a class="btn btn-primary" href="https://gillesdaubigney.shinyapps.io/HERA_App/" target="_blank">Launch dHERA App</a>
 
 <div class="video-container">
 <video width="100%" controls>
@@ -15,10 +15,24 @@ format: html
 Your browser does not support the video tag.
 </video>
 </div>
+
 ::: callout-note
 **Disclaimer:** The dHERA App helps decision‑makers evaluate interventions using incremental cost‑effectiveness and uncertainty analysis. dHERA App is intended for research and educational use only.
 :::
 
+</section>
+
+<!-- New Section: Why Health Economics Matters -->
+<section class="section">
+<h2>Why Health Economics Matters</h2>
+<p>Health economics bridges the gap between clinical practice and economic reality, ensuring that healthcare systems deliver value for every euro spent. It empowers providers, payers, and patients to make informed decisions that optimize outcomes and sustainability.</p>
+
+<div class="video-container">
+<video width="100%" controls>
+<source src="images/Unlocking the Power of Health Economics in Healthcare.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
 </section>
 
 <section class="section">
@@ -47,4 +61,3 @@ Custom cost-effectiveness and HTA modeling tools for timely insights.
 🌍 **Regulatory Affairs**
 Evidence synthesis and analytic frameworks aligned with global HTA guidelines.
 </div>
-
