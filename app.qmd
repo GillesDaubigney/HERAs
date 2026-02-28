@@ -1,5 +1,5 @@
 ---
-title: "HERA Application"
+title: "dHERA Application"
 ---
 
 ## Overview
@@ -14,9 +14,6 @@ In progress
 
 Contact our expert team
 
-::: callout-note
-**Disclaimer:** HERA App is intended for research and educational use only.
-:::
 
 ------------------------------------------------------------------------
 <section class="section" data-animate>

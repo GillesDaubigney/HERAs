@@ -4,9 +4,9 @@ title: "Health Economics Overview"
 
 ## Empowering healthcare professionals with cutting-edge economic analysis and insights to transform decision-making and policy development.
 
-HERA generates robust evidence and builds economic models to substantiate value proposition.
+dHERA generates robust evidence and builds economic models to substantiate value proposition.
 
-HERA mission is to realize optimal pricing and access potential for our clients and creating compelling value for Payers and patients. HERA supports stakeholders in interacting with Payers, Payer Experts, HTA bodies  and other access stakeholders such as the Recommending bodies (NITAGs). HERA  builds and delivers Global Market Access strategy and Payer Value Proposition based on clinical and economic data to facilitate access and reimbursement locally while sustaining innovation.
+dHERA mission is to realize optimal pricing and access potential for our clients and creating compelling value for Payers and patients. dHERA supports stakeholders in interacting with Payers, Payer Experts, HTA bodies  and other access stakeholders such as the Recommending bodies (NITAGs). HERA  builds and delivers Global Market Access strategy and Payer Value Proposition based on clinical and economic data to facilitate access and reimbursement locally while sustaining innovation.
 
 ## Key concepts supported by our experts team
 

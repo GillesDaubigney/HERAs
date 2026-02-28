@@ -6,11 +6,11 @@
 title: "About"
 ---
 
-## The HERA Initiative
+## The dHERA Initiative
 
-HERA is your partner that brings transparency and reproducibility to health‑economic modeling. It supports you from initiating investment decision in medical programs to submitting your dossier to health Technology Assessment agencies
+dHERA is your partner that brings transparency and reproducibility to health‑economic modeling. It supports you from initiating investment decision in medical programs to submitting your dossier to health Technology Assessment agencies
 
-HERA was founded by expert in health economics. We accompany the different stakeholders of the health sector in order to better understand, evaluated and optimise health ressources.
+dHERA was founded by expert in health economics. We accompany the different stakeholders of the health sector in order to better understand, evaluated and optimise health ressources.
 
 Our mission: Contribute to a system of health more effective and fair and durable with a approach founded on the data, research in economics of health.
 

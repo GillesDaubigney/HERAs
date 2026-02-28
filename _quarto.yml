@@ -5,7 +5,7 @@ project:
     - "images/*.mp4"
 
 website:
-  title: "HERA – Health Economics & Regulatory Affairs Partner"
+  title: "dHERA – digitalized Health Economics & Regulatory Affairs Partner"
 
   navbar:
     logo: images/hera_logo.png
@@ -14,7 +14,7 @@ website:
     search: true
     left:
       - href: app.qmd
-        text: HERA Application
+        text: dHERA Application
       - text: Resources
         menu:
           - href: health-economics.qmd
@@ -33,7 +33,7 @@ website:
     foreground: "#000000"
     border: false
     left: "![](images/hera_logo.png){width='100'}"
-    right: "© 2026 HERA – Health Economics & Regulatory Affairs Partner"
+    right: "© 2026 dHERA – digitalized Health Economics & Regulatory Affairs Partner"
 
 format:
   html:
