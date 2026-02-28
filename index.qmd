@@ -1,13 +1,13 @@
 ---
-title: "Welcome to HERA"
+title: "Welcome to dHERA"
 format: html
 ---
 
 <section class="hero">
 <h1>Empowering Health Economics</h1>
-<h2>Your Partner in Health Economics & Regulatory Affairs</h2>
+<h2>Your Partner in digitalized Health Economics & Regulatory Affairs</h2>
 <p>Evidence-Based Decision Support for Health and Policy</p>
-<a class="btn btn-primary" href="app.qmd">Launch HERA App</a>
+<a class="btn btn-primary" href="app.qmd">Launch dHERA App</a>
 
 <div class="video-container">
 <video width="100%" controls>
@@ -16,7 +16,7 @@ Your browser does not support the video tag.
 </video>
 </div>
 ::: callout-note
-**Disclaimer:** The HERA App helps decision‑makers evaluate interventions using incremental cost‑effectiveness and uncertainty analysis. HERA App is intended for research and educational use only.
+**Disclaimer:** The dHERA App helps decision‑makers evaluate interventions using incremental cost‑effectiveness and uncertainty analysis. dHERA App is intended for research and educational use only.
 :::
 
 </section>
