@@ -171,16 +171,36 @@ section:not(.dark) {
   background-color: rgba(0, 0, 0, 0.1); /* Lighter overlay */
 }
 
-/* Reset paragraph margins and padding */
-section p {
+/* Reset paragraph margins for Quarto-generated content */
+section p,
+.quarto-layout p,
+.main-container p {
   margin: 0 0 0.5em 0 !important;
   padding: 0 !important;
   line-height: 1.4 !important;
 }
 
-/* Adjust list item spacing */
-section li {
+/* Reset list margins and padding */
+section ul,
+section ol,
+.quarto-layout ul,
+.quarto-layout ol {
+  margin: 0 0 0.5em 0 !important;
+  padding: 0 !important;
+}
+
+section li,
+.quarto-layout li {
   margin: 0 0 0.3em 0 !important;
   padding: 0 !important;
   line-height: 1.4 !important;
+}
+
+/* Reset spacing for callout blocks (if used) */
+.callout {
+  margin: 0 0 1em 0 !important;
+}
+
+.callout p {
+  margin: 0 0 0.5em 0 !important;
 }
