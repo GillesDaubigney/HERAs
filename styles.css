@@ -16,18 +16,18 @@
 html, body {
   background-color: var(--hera-bg-light);
 
-  /* ★ Use your lightened warm-blue image */
-  background-image: url("images/blue-background-light.png");
+  /* ★ Use your new animated background */
+  background-image: url("images/ai-pattern.jpg");
 
   background-size: cover;
   background-attachment: fixed;     /* ★ needed for parallax feeling */
   background-position: center;
 
-  /* ★ Subtle drifting motion */
+  /* ★ Subtle drifting motion (adjust as needed) */
   animation: drift 22s ease-in-out infinite alternate;
 
-  /* ★ Make background 25% lighter */
-  filter: brightness(1.25);
+  /* ★ Optional: Adjust brightness for better contrast */
+  filter: brightness(0.9);
 
   /* existing settings */
   color: var(--hera-text-light);
@@ -129,4 +129,9 @@ section h4,
 section h5,
 section h6 {
   color: var(--hera-text-light) !important;
+}
+
+section {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.2); /* Adjust opacity as needed */
 }
