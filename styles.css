@@ -173,5 +173,5 @@ section:not(.dark) {
 
 /* Reduce space between paragraphs */
 p {
-  margin-bottom: 0.5em !important;
+  margin-bottom: 0.3em !important;
 }
