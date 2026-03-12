@@ -6,31 +6,37 @@ title: "Health Economics Overview"
 
 dHERA generates robust evidence and builds economic models to substantiate value proposition.
 
-dHERA mission is to realize optimal pricing and access potential for our clients and creating compelling value for Payers and patients. dHERA supports stakeholders in interacting with Payers, Payer Experts, HTA bodies  and other access stakeholders such as the Recommending bodies (NITAGs). HERA  builds and delivers Global Market Access strategy and Payer Value Proposition based on clinical and economic data to facilitate access and reimbursement locally while sustaining innovation.
+dHERA mission is to realize optimal value and access potential. dHERA supports stakeholders in interacting with Payers, Payer Experts, HTA bodies  and other access stakeholders such as the Recommending bodies (NITAGs). HERA  builds and delivers Global Market Access strategy and Payer Value Proposition based on clinical and economic data to facilitate access and reimbursement locally while sustaining innovation.
 
 ## Key concepts supported by our experts team
 
-### 1. Optimizing Opportunity Cost
+### 1. Early Health Technology assessmentment
+
+Helps innovators and investors understand a technology's potential value early on, in order to optimize investment in R&D
+
+Guides Product Design to help design technologies with the specific features needed to be cost-effective and attractive to payers and clinicians .
+
+### 2. Optimizing Opportunity Cost
 
 The value of the best alternative use of resources.
 
-### 2. Increased Efficiency
+### 3. Increased Efficiency
 
 -   **Technical efficiency**: producing care at lowest cost
 
 -   **Allocative efficiency**: allocating resources to maximize population health
 
-### 3. Equity
+### 4. Equity
 
 How healthcare is distributed across individuals or groups.
 
 Efficiency and equity often conflict.
 
-### 4. Utility and QALYs
+### 5. Utility and QALYs
 
 Models relying on **quality-adjusted life years (QALYs)** combining survival and quality of life.
 
-### 5. Cost-Effectiveness
+### 6. Cost-Effectiveness
 
 Comparing incremental cost per incremental health gain (e.g., ICERs).
 
