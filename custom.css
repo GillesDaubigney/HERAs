@@ -136,6 +136,11 @@ section.level3 {
     padding: 0.5em 0 !important;
 }
 
+/* Reduce padding on index page manual sections (exclude banner) */
+section.section:not(.banner) {
+    padding: 1em 8% !important;
+}
+
 /* Footer styling */
 footer {
     color: black !important;
