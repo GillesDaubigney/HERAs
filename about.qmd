@@ -8,7 +8,7 @@ title: "About"
 
 ## The dHERA Initiative
 
-dHERA is your partner that brings transparency and reproducibility to health‑economic modeling. It supports you from initiating investment decision in medical programs to submitting your dossier to health Technology Assessment agencies
+dHERA is your partner that supports you from initiating investment decision in medical programs to submitting your dossier to health Technology Assessment agencies
 
 dHERA was founded by expert in health economics. We accompany the different stakeholders of the health sector in order to better understand, evaluated and optimise health ressources.
 
@@ -17,7 +17,7 @@ Our mission: Contribute to a system of health more effective and fair and durabl
 ## About the Author
 
 **Gilles Daubigney**\
-Health economist with over 25 years experience in the healtcare industry and R developer specialising in decision‑analytic modeling.
+Health economist with over 25 years experience in the healthcare industry specialising in decision‑analytic modeling.
 
 ## Vision
 

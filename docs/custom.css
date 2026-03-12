@@ -124,6 +124,12 @@
     color: white;
 }
 
+/* Reduce spacing between paragraphs */
+p {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
 /* Footer styling */
 footer {
     color: black !important;
