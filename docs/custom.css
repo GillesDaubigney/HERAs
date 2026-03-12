@@ -125,9 +125,8 @@
 }
 
 /* Reduce spacing between paragraphs */
-p {
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
+.main-container p {
+    margin: 0 0 0.2em 0 !important;
 }
 
 /* Footer styling */
