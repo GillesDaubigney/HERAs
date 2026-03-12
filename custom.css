@@ -125,7 +125,8 @@
 }
 
 /* Reduce spacing between paragraphs */
-.main-container p {
+main.content p,
+#quarto-document-content p {
     margin: 0 0 0.2em 0 !important;
 }
 
