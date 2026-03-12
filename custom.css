@@ -127,7 +127,13 @@
 /* Reduce spacing between paragraphs */
 main.content p,
 #quarto-document-content p {
-    margin: 0 0 0.2em 0 !important;
+    margin: 0 0 0.3em 0 !important;
+}
+
+/* Reduce large padding on Quarto-generated content sections */
+section.level2,
+section.level3 {
+    padding: 0.5em 0 !important;
 }
 
 /* Footer styling */
